@@ -5,7 +5,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && cp dist/index.html dist/404.html",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
