@@ -14,21 +14,21 @@ import {
   import Work2 from './assets/project-2.webp';
   import Work3 from './assets/project-3.jpg';
 
-  import Hook from './assets/Hooks.jpg' ;
-  import Grid from './assets/grid.jpg';
-  import closure from './assets/closures.jpg';
-  import version from './assets/github.png'
+  import Hook from './assets/Hooks.svg' ;
+  import Grid from './assets/grid.svg';
+  import closure from './assets/closures.svg';
+  import version from './assets/github.svg'
   
-  import Theme1 from './assets/purple.png';
-  import Theme2 from './assets/red.png';
-  import Theme3 from './assets/blueviolet.png';
-  import Theme4 from './assets/blue.png';
-  import Theme5 from './assets/goldenrod.png';
-  import Theme6 from './assets/magenta.png';
-  import Theme7 from './assets/yellowgreen.png';
-  import Theme8 from './assets/orange.png';
-  import Theme9 from './assets/green.png';
-  import Theme10 from './assets/yellow.png';
+  import Theme1 from './assets/purple.svg';
+  import Theme2 from './assets/red.svg';
+  import Theme3 from './assets/blueviolet.svg';
+  import Theme4 from './assets/blue.svg';
+  import Theme5 from './assets/goldenrod.svg';
+  import Theme6 from './assets/magenta.svg';
+  import Theme7 from './assets/yellowgreen.svg';
+  import Theme8 from './assets/orange.svg';
+  import Theme9 from './assets/green.svg';
+  import Theme10 from './assets/yellow.svg';
   
   export const links = [
     {
